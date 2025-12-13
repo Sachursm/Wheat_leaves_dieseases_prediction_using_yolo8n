@@ -1,0 +1,11 @@
+path: C:/Users/sachu/Desktop/wheat_dataset/wheat_dataset  
+
+train: images/train
+val: images/val
+
+names:
+  0: BrownRust
+  1: Healthy
+  2: Mildew
+  3: Septoria
+  4: YellowRust
