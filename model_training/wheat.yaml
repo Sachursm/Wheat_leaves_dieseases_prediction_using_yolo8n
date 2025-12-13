@@ -1,4 +1,4 @@
-path: C:/Users/sachu/Desktop/wheat_dataset/wheat_dataset  
+path: D:/AI_projects/wheat_diseases_detection/model_training/wheat_dataset  
 
 train: images/train
 val: images/val
