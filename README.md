@@ -197,3 +197,19 @@ yolov8n is suitable for:
     Web apps
     Low-latency inference
     Edge / embedded systems
+
+---
+
+## 📝 License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+---
+
+## 👨‍💻 Author
+
+Sachu Retna SM
+- GitHub: [Sachursm](https://github.com/Sachursm)
+- Email: [sachuretnasm@gmail.com](sachuretnasm@gmail.com)
+
+---
