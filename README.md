@@ -1,5 +1,5 @@
 
-### 🌾 Wheat Leaf Disease Detection using YOLOv8 
+# 🌾 Wheat Leaf Disease Detection using YOLOv8 
 
 This project detects wheat leaf diseases using a YOLOv8 object detection model trained on labeled images with bounding boxes.
 The trained model is later used inside a web application for real-time or image-based disease detection.
@@ -78,9 +78,8 @@ Labeling tool used: https://www.makesense.ai
 Annotation type: Bounding Boxes
 Export format: YOLO
 One image contains:
-  Original image (no bounding box)
   Labeled image (with bounding boxes)
-
+![image](https://github.com/Sachursm/Wheat_leaves_dieseases_prediction_using_yolo8n/blob/c31c094f9065f19d06de1c5a74244d881e5eaa8c/model_training/runs/detect/train/val_batch0_labels.jpg)
   
 ### ⚙️ GPU Setup (Recommended)
 
