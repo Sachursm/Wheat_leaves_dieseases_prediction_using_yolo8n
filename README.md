@@ -1,5 +1,5 @@
 
-### 🌾 Wheat Leaf Disease Detection using YOLOv8
+### 🌾 Wheat Leaf Disease Detection using YOLOv8 
 
 This project detects wheat leaf diseases using a YOLOv8 object detection model trained on labeled images with bounding boxes.
 The trained model is later used inside a web application for real-time or image-based disease detection.
